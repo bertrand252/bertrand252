@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bertrand 黃輝宏</h1>
+![Header](./github-header-banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bertrand252&label=Profile%20views&color=0e75b6&style=flat" alt="bertrand252" /> </p>
 
 
