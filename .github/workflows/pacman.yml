@@ -1,0 +1,26 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Pacman contribution graph
+        uses: bertrand252/pacman-contribution-graph@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/*.svg || echo "No SVGs generated"
+          git commit -m "Update Pacman contribution graph" || echo "No changes"
+          git push
