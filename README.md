@@ -5,6 +5,7 @@
 - 🎓 I’m currently studying on **Tamkang University**
 - 🌱 I’m currently learning **Frameworks, Juris.Js**
 - 📄 [Download My CV](https://www.canva.com/design/DAGbTw4Vbzw/poqk80lxG8u9VtNIwrcM0A/edit?utm_content=DAGbTw4Vbzw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 [Portfolio](https://bertrandleonard.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
