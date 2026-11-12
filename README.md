@@ -8,7 +8,7 @@ Final-year Computer Science student at **Tamkang University** (Taiwan), graduati
 - 💼 **Open to internships:** backend, data or software engineering. Part-time now, full-time from January 2027.
 - 🌏 Based in Taiwan · Indonesian (native), English (TOEIC 720), Mandarin (TOCFL A2)
 - ☁️ Microsoft Certified: Azure AI Fundamentals (AI-900)
-- 📄 [**Download my CV**](./CV_Bertrand_Leonard_Widjaksono.pdf) · 🌐 [Portfolio](https://bertrandleonard.vercel.app/)
+- 📄 [**Download my CV**](./NEW%20CV%20%E9%BB%83%E8%BC%9D%E5%AE%8F.pdf) · 🌐 [Portfolio](https://bertrandleonard.vercel.app/)
 
 <h3 align="left">Featured projects</h3>
 
